@@ -35,7 +35,7 @@ impl Merkle {
 
     pub fn new() -> Self {
         //THE following is the depth=31, 32 level merkle root default
-        let root = [11826054925775482837, 5943555147602679911, 3550282808714298530, 3363170373529648096];
+        let root = [5647113874217112664, 14689602159481241585, 4257643359784105407, 2925219336634521956];
         Merkle { root }
     }
 
